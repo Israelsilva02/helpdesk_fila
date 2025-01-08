@@ -1,0 +1,4 @@
+com/helpdesk/demo_backend_helpdesk/DemoBackendHelpdeskApplication.class
+com/helpdesk/demo_backend_helpdesk/consumer/ChamadoRequestConsumer.class
+com/helpdesk/demo_backend_helpdesk/producer/ChamadoErroProducer.class
+com/helpdesk/demo_backend_helpdesk/producer/ChamadoSucessoProducer.class
